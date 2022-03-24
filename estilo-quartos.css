@@ -1,0 +1,22 @@
+.boas-vindas {
+    height: 200px;
+}
+
+.bloco-quarto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 40px;
+}
